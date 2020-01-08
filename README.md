@@ -1,2 +1,0 @@
-# SearchNames
-Created with CodeSandbox

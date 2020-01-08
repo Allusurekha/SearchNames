@@ -1,0 +1,21 @@
+.App {
+  font-family: sans-serif;
+  text-align: right;
+}
+h5 {
+  text-align: center;
+}
+
+table {
+  text-align: center;
+  border: 1px solid black;
+}
+
+td {
+  font-size-adjust: 0.1;
+  width: 1000%;
+}
+
+tr {
+  width: 1000%;
+}
